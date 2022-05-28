@@ -2,8 +2,10 @@
 
 # dependencies
 /node_modules
+/my-app/node_modules
 /.pnp
 .pnp.js
+.vscode/
 
 # testing
 /coverage
@@ -30,3 +32,4 @@ yarn-error.log*
 
 # vercel
 .vercel
+node_modules
